@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">汇融法</string>
+
+    <string name="no_internet">请先连接Internet!</string>
+    <string name="no_wifi">建议您使用WIFI以减少流量!</string>
+
+    <string name="string_loading">拼命加载的我，感觉萌萌哒~ </string>\
+    <string name="string_loading_no_data">"暂时没有数据，点击重新加载"</string>
+    <string name="string_loading_no_network">网络都去哪儿了</string>
+    <string name="string_loading_fail">加载失败，再踹（try）一下吧。</string>\
+
+    <string name="connecting_msg">连接已断开，正在重新连接...</string>
+    <string name="input_button_text">我来说两句.....</string>
+    <string name="label_send">发送</string>
+
+
+
+
+
+
+
+</resources>
